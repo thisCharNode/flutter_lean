@@ -1,0 +1,16 @@
+{
+  "id": "",
+  "name": "",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "1074258",
+      "name": "蓝牙",
+      "font_class": "icon",
+      "unicode": "e697",
+      "unicode_decimal": 59031
+    }
+  ]
+}
