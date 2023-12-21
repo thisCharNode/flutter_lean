@@ -1,0 +1,16 @@
+{
+  "id": "",
+  "name": "",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "38282841",
+      "name": "007_软件开发",
+      "font_class": "a-007_ruanjiankaifa",
+      "unicode": "e626",
+      "unicode_decimal": 58918
+    }
+  ]
+}
