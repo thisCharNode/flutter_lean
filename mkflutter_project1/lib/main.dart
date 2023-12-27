@@ -5,8 +5,11 @@ import 'package:mkflutter_project1/flutter_style_widget.dart';
 import 'package:mkflutter_project1/image-myicon.dart';
 import 'package:mkflutter_project1/onclickChang.dart';
 import 'package:mkflutter_project1/gaode.dart';
+import 'package:mkflutter_project1/lifeCycle/life1.dart';
+import 'package:mkflutter_project1/lifeCycle/inherited.dart';
+
 void main() {
-  runApp( const Gaode());
+  runApp(Inherited());
 }
 
 class MyApp extends StatelessWidget {
