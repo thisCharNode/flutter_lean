@@ -30,7 +30,7 @@ class InheritedState extends State<Inherited> {
                       _count++;
                     });
                   },
-                  child: const Text('点我'),
+                  child: const Text('点我abc',style: TextStyle(fontFamily: "fontFamily"),),
                 )
               ],
             ),
