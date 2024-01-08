@@ -7,9 +7,14 @@ import 'package:mkflutter_project1/onclickChang.dart';
 import 'package:mkflutter_project1/gaode.dart';
 import 'package:mkflutter_project1/lifeCycle/life1.dart';
 import 'package:mkflutter_project1/lifeCycle/inherited.dart';
+import 'package:mkflutter_project1/photoapp/photo.dart';
+import 'package:mkflutter_project1/photoapp/photoMK.dart';
 
 void main() {
-  runApp(Inherited());
+  runApp(MaterialApp(
+    debugShowCheckedModeBanner: false,
+    home: PhotoApp(),
+  ));
 }
 
 
